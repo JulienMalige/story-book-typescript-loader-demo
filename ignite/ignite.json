@@ -1,0 +1,14 @@
+{
+  "createdWith": "2.1.2",
+  "examples": "classic",
+  "navigation": "react-navigation",
+  "askToOverride": true,
+  "generators": {
+    "component": "ignite-typescript-boilerplate",
+    "container": "ignite-typescript-boilerplate",
+    "list": "ignite-typescript-boilerplate",
+    "reducers": "ignite-typescript-boilerplate",
+    "saga": "ignite-typescript-boilerplate",
+    "screen": "ignite-typescript-boilerplate"
+  }
+}
